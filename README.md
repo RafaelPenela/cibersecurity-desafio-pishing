@@ -13,6 +13,6 @@ Repositório de atividade pratica de pishing para o 2° bootcamp de ciberseguran
 * Método de ataque: Credential Harvester Attack Method(3)  
 * Método de ataque: Site Cloner (2)
 * Obtendo o endereço da máquina: ifconfig
-* URL para clone: https://www.nwtflix.com
+* URL para clone: "localhost"
 
 ### **Resultados**
