@@ -4,7 +4,9 @@ Repositório de atividade pratica de pishing para o 2° bootcamp de ciberseguran
 ### **Ferramentas**
 * Kali Linux
 * setoolkit
-
+#### **OBS:**
+* É indicado que se crie o servidor antes de começar a utilizar o setoolkit.
+* Os códigos devem ser executados de modo prioritário e por isso é necessário usar o comando 'sudo su' ao abrir cada diretório.
 ### **Configurando o Phishing no Kali Linux**
 * Acesso root: sudo su
 * Iniciando o setoolkit: setoolkit
