@@ -17,4 +17,4 @@ Repositório de atividade pratica de pishing para o 2° bootcamp de ciberseguran
 
 ### **Resultados**
 
-![Resultado do Phishing](https://raw.githubusercontent.com/usuario/repositorio/main/resultadopishing.png)
+![Resultado do Phishing](https://github.com/RafaelPenela/cibersecurity-desafio-pishing/blob/main/resultadopishing.png)
